@@ -9,3 +9,5 @@ JFS Class
 05-12-2023: Mutlithreading
 
 07-12-2023: Collections
+
+15-12-2023: JDBC
